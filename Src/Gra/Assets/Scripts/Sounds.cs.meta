@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6ed02e5c70677044abd7467190d80274
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BreathJumpSound: {fileID: 8300000, guid: cad685e7429df0d48a5130278363408d, type: 3}
+  - ExplosionSound: {fileID: 8300000, guid: 8ef2ffd073b8d31439c4e493a8f7322e, type: 3}
+  - FastdeathSound: {fileID: 8300000, guid: 50d9d5c774acf694fbfd2c725792ec1a, type: 3}
+  - FootstepGravelSound: {fileID: 8300000, guid: b50abe0654629a640a6c854602da6d32,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

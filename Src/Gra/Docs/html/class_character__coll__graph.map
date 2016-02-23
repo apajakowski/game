@@ -1,0 +1,3 @@
+<map id="Character" name="Character">
+<area shape="rect" id="node3" href="$class_sounds.html" title="{Sounds\n|+ BreathJumpSound\l+ ExplosionSound\l+ FastdeathSound\l+ FootstepGravelSound\l|+ Move()\l+ Jump()\l+ Death()\l+ Explosion()\l}" alt="" coords="12,360,170,525"/>
+</map>

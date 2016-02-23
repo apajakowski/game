@@ -1,0 +1,4 @@
+<map id="GameInput" name="GameInput">
+<area shape="rect" id="node3" href="$class_my_button.html" title="{MyButton\n|+ IsPressed\l|+ PointerDown()\l+ PointerUp()\l}" alt="" coords="31,154,146,246"/>
+<area shape="rect" id="node4" href="$class_joystick.html" title="{Joystick\n|+ Range\l+ Canvas\l+ X\l+ Y\l|+ StartDrag()\l+ EndDrag()\l}" alt="" coords="170,132,268,268"/>
+</map>

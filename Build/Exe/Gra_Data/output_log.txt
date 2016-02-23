@@ -1,0 +1,120 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M  (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     1991 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\licencjat\P\Build\Exe\Gra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\licencjat\P\Build\Exe\Gra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\licencjat\P\Build\Exe\Gra_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\licencjat\P\Build\Exe\Gra_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\licencjat\P\Build\Exe\Gra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\licencjat\P\Build\Exe\Gra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\licencjat\P\Build\Exe\Gra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\licencjat\P\Build\Exe\Gra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.122 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: G:\licencjat\P\Build\Exe\Gra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\licencjat\P\Build\Exe\Gra_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.771187 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 814.
+Total: 0.864346 ms (FindLiveObjects: 0.024926 ms CreateObjectMapping: 0.009530 ms MarkObjects: 0.233131 ms  DeleteObjects: 0.004765 ms)
+
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.036996 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.950121 ms (FindLiveObjects: 0.025292 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.241929 ms  DeleteObjects: 0.026392 ms)
+
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.106642 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.931793 ms (FindLiveObjects: 0.022726 ms CreateObjectMapping: 0.010630 ms MarkObjects: 0.283350 ms  DeleteObjects: 0.011729 ms)
+
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.011703 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.940224 ms (FindLiveObjects: 0.024192 ms CreateObjectMapping: 0.010996 ms MarkObjects: 0.246327 ms  DeleteObjects: 0.013196 ms)
+
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.073652 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.913832 ms (FindLiveObjects: 0.022726 ms CreateObjectMapping: 0.013196 ms MarkObjects: 0.242662 ms  DeleteObjects: 0.010996 ms)
+
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.013169 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 1.008404 ms (FindLiveObjects: 0.023826 ms CreateObjectMapping: 0.012096 ms MarkObjects: 0.311208 ms  DeleteObjects: 0.022360 ms)
+
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.102976 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.978713 ms (FindLiveObjects: 0.026025 ms CreateObjectMapping: 0.015762 ms MarkObjects: 0.290314 ms  DeleteObjects: 0.013929 ms)
+
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.076951 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.937658 ms (FindLiveObjects: 0.023826 ms CreateObjectMapping: 0.013196 ms MarkObjects: 0.248527 ms  DeleteObjects: 0.021626 ms)
+
+UnloadTime: 0.877542 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1118.
+Total: 0.920796 ms (FindLiveObjects: 0.032990 ms CreateObjectMapping: 0.014662 ms MarkObjects: 0.249993 ms  DeleteObjects: 0.031157 ms)
+
+UnloadTime: 1.082815 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1118.
+Total: 0.900636 ms (FindLiveObjects: 0.032623 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.273453 ms  DeleteObjects: 0.004398 ms)
+
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.186552 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.942423 ms (FindLiveObjects: 0.023459 ms CreateObjectMapping: 0.015028 ms MarkObjects: 0.265022 ms  DeleteObjects: 0.030790 ms)
+

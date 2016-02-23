@@ -1,0 +1,4 @@
+<map id="CharacterMovement" name="CharacterMovement">
+<area shape="rect" id="node3" href="$class_sounds.html" title="{Sounds\n|+ BreathJumpSound\l+ ExplosionSound\l+ FastdeathSound\l+ FootstepGravelSound\l|+ Move()\l+ Jump()\l+ Death()\l+ Explosion()\l}" alt="" coords="52,132,211,297"/>
+<area shape="rect" id="node4" href="$class_character.html" title="{Character\n|+ Feet\l+ Dead\l+ Dying\l+ IsGrounded\l+ Speed\l+ distToGround\l|+ Die()\l+ Explode()\l}" alt="" coords="157,360,268,525"/>
+</map>

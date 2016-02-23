@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ArrowAI" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAAEAIAAIAAAAAAAAAAAAEAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\ArrowAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BEIgCAAQAiAAgIEgAAEAAAghAAAAAEJABAAACAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Character.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Gui" />
+      <Property Name="Deathzone" />
+      <Property Name="DeathzoneExplode" />
+      <Property Name="Sounds1" />
+      <Property Name="CharacterMovement" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CharacterMovement" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAACIAAQABAIACQAAAAAAAAwAAJASACEAEKAA=</HashCode>
+      <FileName>Assets\Scripts\CharacterMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeathballAI" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DeathballAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deathzone" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Deathzone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeathzoneExplode" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DeathzoneExplode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyMe" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DestroyMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gui" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Gui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameInput" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Assets\Scripts\Input\GameInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyButton" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAACAAAAAAABAAAAAAAAAAQAAAg=</HashCode>
+      <FileName>Assets\Scripts\Input\MyButton.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameInput" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Joystick" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAACABCAAAQQICAAAAAAAAAAgAABAAAAABYAA=</HashCode>
+      <FileName>Assets\Scripts\Joystick.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameInput" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LoadNextLevel" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LoadNextLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuManager" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movement" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiYACJABAIAEQAABAAAAAgCAMAAEAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetActive" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SetActive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sounds" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAgAAqAAAAAAAAAAAEAEAABAAAAgAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Sounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spawner" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAEAAAAAQAAQgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Spawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
